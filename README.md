@@ -1,4 +1,4 @@
-# RRPS04 Ейсмонт Ігор ІПЗм-25-2
+# Learning RestAPI Application
 
 ---
 
